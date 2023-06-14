@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Michael
 🔭 I’m currently working on Quell, a caching solution for GraphQL
 
-## Tech
+## 🖥 Tech
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
