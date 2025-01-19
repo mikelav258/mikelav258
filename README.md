@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Michael
-🔭 I’m currently working on Quell, a caching solution for GraphQL
+🔭 
 
 ## 🖥 Tech
 
